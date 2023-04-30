@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **denizalperacar@gmail.com**
 
+- ⚡ Fun fact: I learned to draw by drawing almost every day for 20 mins in 4 years. Check out my drawings in my instagram @deniza.acar
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/deniza.acar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deniza.acar" height="30" width="40" /></a>
