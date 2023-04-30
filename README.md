@@ -1,11 +1,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=denizalperacar&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
-<h3 align="center">A passionate developer and engineer currently working on DL based solution of differential equations and physical object reconstruction.</h3>
+<h3 align="center">A passionate developer and engineer currently working on DL based solution of differential equations and physical object reconstructions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizalperacar&label=Profile%20views&color=0e75b6&style=flat" alt="denizalperacar" /> </p>
 
-- 🔭 I’m currently working on **A CUDA based NN library, a tomographic reconstruction code and a ray tracing engine.**
+- 🔭 I’m currently working on **a CUDA based NN library, a tomographic reconstruction code and a ray tracing engine.**
 
 - 🌱 I’m currently learning **CUDA, and reading DL papers**
 
