@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denizalperacar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=denizalperacar&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
 <!--
 **denizalperacar/denizalperacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
