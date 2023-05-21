@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate developer and engineer currently working on DL based solution of differential equations and physical object reconstructions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denizalperacar&label=Profile%20views&color=0e75b6&style=flat" alt="denizalperacar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denizalperacar&label=Profile%20views&color=0e75b6&style=flat" alt="denizalperacar" /> </p> 
+
+![45%](https://progress-bar.dev/45/?title=TOMOPIV)
+
+I am currently implementing a modified version of the paper “Tomographic particle image velocimetry, doi: 10.1007/s00348-006-0212-z.". 
 
 - 🔭 I’m currently working on **a CUDA based NN library, a tomographic reconstruction code and a ray tracing engine.**
 
