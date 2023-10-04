@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizalperacar&label=Profile%20views&color=0e75b6&style=flat" alt="denizalperacar" /> </p> 
 
-![45%](https://progress-bar.dev/45/?title=TOMOPIV)
+![100%](https://progress-bar.dev/45/?title=TOMOPIV)
 
-I am currently implementing a modified version of the paper “Tomographic particle image velocimetry, doi: 10.1007/s00348-006-0212-z.". 
+I am working on the developement of a new physics engine as well as creating new models in Project Chrono.
+
+I have finished implementing a modified version of the paper “Tomographic particle image velocimetry, doi: 10.1007/s00348-006-0212-z." that does the reconstruction in less than a second rather than 16 minutes. 
 
 - 🔭 I’m currently working on **a CUDA based NN library, a tomographic reconstruction code and a ray tracing engine.**
 
