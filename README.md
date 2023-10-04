@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizalperacar&label=Profile%20views&color=0e75b6&style=flat" alt="denizalperacar" /> </p> 
 
-![100%](https://progress-bar.dev/45/?title=TOMOPIV)
+![100%](https://progress-bar.dev/100/?title=TOMOPIV)
 
 I am working on the developement of a new physics engine as well as creating new models in Project Chrono.
 
